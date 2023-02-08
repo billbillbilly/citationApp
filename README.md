@@ -8,3 +8,4 @@ Users can use this tool to build, update, export their own refernce dataset with
 
 ## Application
 [APA Citation Manager](https://billbillbilly.github.io/paper_reference/citation_app/)
+[Project folder](https://github.com/billbillbilly/billbillbilly.github.io/tree/main/paper_reference/citation_app)
