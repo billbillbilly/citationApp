@@ -7,5 +7,5 @@ Users can use this tool to build, update, export their own refernce dataset with
 - copy and paste the your manuscript > load your texts > add DOI to your reference > render APA citations
 
 ## Application
-[APA Citation Manager](https://billbillbilly.github.io/paper_reference/citation_app/)
-[Project folder](https://github.com/billbillbilly/billbillbilly.github.io/tree/main/paper_reference/citation_app)
+- [APA Citation Manager](https://billbillbilly.github.io/paper_reference/citation_app/)
+- [Project folder](https://github.com/billbillbilly/billbillbilly.github.io/tree/main/paper_reference/citation_app)
